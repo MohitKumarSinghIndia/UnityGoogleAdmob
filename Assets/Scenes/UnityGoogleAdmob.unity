@@ -476,9 +476,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6aa93c1bff8adf408b7f86bfdf30023, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  bannerAdUnitId: ca-app-pub-4770495437188472/3798387582
-  interstitialAdUnitId: ca-app-pub-4770495437188472/8779251520
-  rewardedAdUnitId: ca-app-pub-4770495437188472/7601901221
+  bannerAdUnitId: ca-app-pub-3940256099942544/6300978111
+  interstitialAdUnitId: ca-app-pub-3940256099942544/1033173712
+  rewardedAdUnitId: ca-app-pub-3940256099942544/5224354917
 --- !u!1 &1651192147
 GameObject:
   m_ObjectHideFlags: 0
